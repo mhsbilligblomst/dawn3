@@ -40,7 +40,7 @@
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a> {% section 'announcement-bar' %} {% section 'header' %}
-    <div class="grid--quarter-max grid--4-col-desktop grid-item sidebarPanel">
+    <div class="sidebarPanel">
         <ul class="parent">
             {% for link in linklists.main-menu.links %}
             <li {% if link.active %}class="active {% if link.child_active %}child-active{% endif %}" {% endif %}><a href="{{ link.url }}">{{ link.title }}</a> {% if link.links != blank %}
@@ -61,7 +61,7 @@
             {% endfor %}
         </ul>
     </div>
-    <main id="MainContent" class="content-for-layout focus-none grid-item" role="main" tabindex="-1">
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
         {{ content_for_layout }}
     </main>
 
