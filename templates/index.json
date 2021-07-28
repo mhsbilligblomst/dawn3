@@ -20,12 +20,54 @@
           "settings": {
             "collection": "crocus"
           }
+        },
+        "a1618bfa-e412-400d-a2b2-8c9438d527ef": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "b7292378-b600-4d6b-a5f2-39aacacae724": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "7b051add-9ad3-4855-9d5f-36ea7b5158ef": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "600ad5b7-28bd-4cc5-8b45-547e99d42f9c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "30f13ade-0a53-4109-9d26-a3020a7cce8e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "8889d796-f107-4679-989a-ce179cc26448": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "162745531086bcfcce-0",
         "162745531086bcfcce-1",
-        "162745531086bcfcce-2"
+        "162745531086bcfcce-2",
+        "a1618bfa-e412-400d-a2b2-8c9438d527ef",
+        "b7292378-b600-4d6b-a5f2-39aacacae724",
+        "7b051add-9ad3-4855-9d5f-36ea7b5158ef",
+        "600ad5b7-28bd-4cc5-8b45-547e99d42f9c",
+        "30f13ade-0a53-4109-9d26-a3020a7cce8e",
+        "8889d796-f107-4679-989a-ce179cc26448"
       ],
       "settings": {
         "title": "Collections",
